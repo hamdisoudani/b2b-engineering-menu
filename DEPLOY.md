@@ -58,14 +58,12 @@ The portfolio features an active URL query parameter parser:
 
 ---
 
-### Option 4: GitHub Pages
+### Option 4: GitHub Pages (Live in Production! 🚀)
 
-1. Push your repository to GitHub.
-2. In your GitHub repository settings:
-   - Navigate to **Settings** > **Pages**.
-   - Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
-   - Select your branch (e.g., `main`), set the folder to `/portfolio` (or root if dedicated), and click **Save**.
-3. Your site will be live at `https://hamdisoudani.github.io/opportunity_hunting/portfolio/index.html`.
+Your portfolio is already deployed and live on GitHub Pages:
+- **Live URL (Default English):** [https://hamdisoudani.github.io/b2b-engineering-menu/](https://hamdisoudani.github.io/b2b-engineering-menu/)
+- **Live URL (French for ESNs / Agencies):** [https://hamdisoudani.github.io/b2b-engineering-menu/?lang=fr](https://hamdisoudani.github.io/b2b-engineering-menu/?lang=fr)
+- **Repository:** [https://github.com/hamdisoudani/b2b-engineering-menu](https://github.com/hamdisoudani/b2b-engineering-menu)
 
 ---
 
